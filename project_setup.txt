@@ -1,0 +1,20 @@
+Project Name: Planner
+App: Main (Handles notes, dates, etc.)
+App: Register (Handles users login and registration/validations)
+App: Chat (Handles chatgpt injection)
+
+
+Run these commands in your terminal:
+
+1.Create a virtual environment
+
+$ python3 -m venv dev
+
+2.Start your virtual environment
+
+$ source dev/bin/activate
+
+3. Install reqirements
+
+(dev) $ pip install -r requirements.txt
+
